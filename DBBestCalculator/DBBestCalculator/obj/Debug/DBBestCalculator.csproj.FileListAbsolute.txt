@@ -1,0 +1,15 @@
+c:\users\liahim\documents\visual studio 2013\Projects\DBBestCalculator\DBBestCalculator\bin\Debug\DBBestCalculator.exe.config
+c:\users\liahim\documents\visual studio 2013\Projects\DBBestCalculator\DBBestCalculator\bin\Debug\DBBestCalculator.exe
+c:\users\liahim\documents\visual studio 2013\Projects\DBBestCalculator\DBBestCalculator\bin\Debug\DBBestCalculator.pdb
+c:\users\liahim\documents\visual studio 2013\Projects\DBBestCalculator\DBBestCalculator\obj\Debug\DBBestCalculator.csprojResolveAssemblyReference.cache
+c:\users\liahim\documents\visual studio 2013\Projects\DBBestCalculator\DBBestCalculator\obj\Debug\Views\CalculatorView.baml
+c:\users\liahim\documents\visual studio 2013\Projects\DBBestCalculator\DBBestCalculator\obj\Debug\Views\CalculatorView.g.cs
+c:\users\liahim\documents\visual studio 2013\Projects\DBBestCalculator\DBBestCalculator\obj\Debug\App.g.cs
+c:\users\liahim\documents\visual studio 2013\Projects\DBBestCalculator\DBBestCalculator\obj\Debug\DBBestCalculator_MarkupCompile.cache
+c:\users\liahim\documents\visual studio 2013\Projects\DBBestCalculator\DBBestCalculator\obj\Debug\DBBestCalculator.g.resources
+c:\users\liahim\documents\visual studio 2013\Projects\DBBestCalculator\DBBestCalculator\obj\Debug\DBBestCalculator.Properties.Resources.resources
+c:\users\liahim\documents\visual studio 2013\Projects\DBBestCalculator\DBBestCalculator\obj\Debug\DBBestCalculator.csproj.GenerateResource.Cache
+c:\users\liahim\documents\visual studio 2013\Projects\DBBestCalculator\DBBestCalculator\obj\Debug\DBBestCalculator.exe
+c:\users\liahim\documents\visual studio 2013\Projects\DBBestCalculator\DBBestCalculator\obj\Debug\DBBestCalculator.pdb
+C:\Users\Liahim\Documents\Visual Studio 2013\Projects\DBBestCalculator\DBBestCalculator\bin\Debug\CalculatorModel.dll
+C:\Users\Liahim\Documents\Visual Studio 2013\Projects\DBBestCalculator\DBBestCalculator\bin\Debug\CalculatorModel.pdb
