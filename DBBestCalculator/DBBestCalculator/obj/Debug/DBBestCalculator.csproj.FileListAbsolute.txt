@@ -13,3 +13,6 @@ c:\users\liahim\documents\visual studio 2013\Projects\DBBestCalculator\DBBestCal
 c:\users\liahim\documents\visual studio 2013\Projects\DBBestCalculator\DBBestCalculator\obj\Debug\DBBestCalculator.pdb
 C:\Users\Liahim\Documents\Visual Studio 2013\Projects\DBBestCalculator\DBBestCalculator\bin\Debug\CalculatorModel.dll
 C:\Users\Liahim\Documents\Visual Studio 2013\Projects\DBBestCalculator\DBBestCalculator\bin\Debug\CalculatorModel.pdb
+D:\Документы\Visual Studio 2013\Projects\DB Best\DBBestCalculator\DBBestCalculator\bin\Debug\DBBestCalculator.exe.config
+D:\Документы\Visual Studio 2013\Projects\DB Best\DBBestCalculator\DBBestCalculator\obj\Debug\DBBestCalculator.exe
+D:\Документы\Visual Studio 2013\Projects\DB Best\DBBestCalculator\DBBestCalculator\obj\Debug\DBBestCalculator.pdb

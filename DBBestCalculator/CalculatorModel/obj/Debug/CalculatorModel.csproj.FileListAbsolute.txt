@@ -2,3 +2,4 @@ C:\Users\Liahim\Documents\Visual Studio 2013\Projects\DBBestCalculator\Calculato
 C:\Users\Liahim\Documents\Visual Studio 2013\Projects\DBBestCalculator\CalculatorModel\bin\Debug\CalculatorModel.pdb
 C:\Users\Liahim\Documents\Visual Studio 2013\Projects\DBBestCalculator\CalculatorModel\obj\Debug\CalculatorModel.dll
 C:\Users\Liahim\Documents\Visual Studio 2013\Projects\DBBestCalculator\CalculatorModel\obj\Debug\CalculatorModel.pdb
+C:\Users\Liahim\Documents\Visual Studio 2013\Projects\DBBestCalculator\CalculatorModel\obj\Debug\CalculatorModel.csprojResolveAssemblyReference.cache
